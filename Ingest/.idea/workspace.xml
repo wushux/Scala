@@ -2,25 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdf8dec5-a225-4eb3-ad67-cff74c37a382" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/.idea/modules/helloworld.iml" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules/helloworld.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__joda_time_joda_time_2_9_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_ccil_cowan_tagsoup_tagsoup_1_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__joda_time_joda_time_2_9_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_ccil_cowan_tagsoup_tagsoup_1_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/modules/csye7200_wk4_ingest2-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/modules/csye7200_wk4_ingest2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/project/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/project/plugins.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/src/main/scala/shuxian/ingest/Ingest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/src/main/scala/shuxian/ingest2/Function.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/src/main/scala/shuxian/ingest2/Movie.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/src/test/scala/shuxian/ingest2/FunctionSpec.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/src/test/scala/shuxian/ingest2/MovieSpec.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__io_spray_spray_json_2_11_1_3_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__joda_time_joda_time_2_9_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_ccil_cowan_tagsoup_tagsoup_1_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_8_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_8_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/modules/csye7200_wk6_webcrawler-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/src/main/scala/crawler/HTMLParser.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/src/main/scala/crawler/WebCrawler.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/src/main/scala/depfun/MonadOps.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/src/test/scala/crawler/WebCrawlerSpec.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CSYE7200_wk6_webcrawler/src/test/scala/crawler/test.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scalactic_scalactic_2_11_3_0_0_jar.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_8_jar.xml" afterPath="$PROJECT_DIR$/../CSYE7200_wk4_Ingest2/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_8_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/modules/csye7200_wk2-build.iml" afterPath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/modules/csye7200_wk2-build.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/modules/csye7200_wk2.iml" afterPath="$PROJECT_DIR$/../CSYE7200_wk2/.idea/modules/csye7200_wk2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk2/src/main/scala/Movie.scala" afterPath="$PROJECT_DIR$/../CSYE7200_wk2/src/main/scala/Movie.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk2/src/test/scala/MovieSpec.scala" afterPath="$PROJECT_DIR$/../CSYE7200_wk2/src/test/scala/MovieSpec.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/misc.xml" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/modules/csye7200_wk3_randomstate-build.iml" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/modules/csye7200_wk3_randomstate-build.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/modules/csye7200_wk3_randomstate.iml" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/.idea/modules/csye7200_wk3_randomstate.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/build.sbt" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/src/main/scala/shuxian/random/RandomState.scala" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/src/main/scala/shuxian/random/RandomState.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/src/test/scala/shuxian/random/RandomStateSpec.scala" afterPath="$PROJECT_DIR$/../CSYE7200_wk3_RandomState/src/test/scala/shuxian/random/RandomStateSpec.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk5_JSON/.idea/misc.xml" afterPath="$PROJECT_DIR$/../CSYE7200_wk5_JSON/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSYE7200_wk5_JSON/.idea/modules/csye7200_wk5_json-build.iml" afterPath="$PROJECT_DIR$/../CSYE7200_wk5_JSON/.idea/modules/csye7200_wk5_json-build.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/default/helloworld$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/default/helloworld$sources_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/default/helloworld$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/default/helloworld$sources_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/../HelloWorld/target/resolution-cache/reports/default-helloworld$sources_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../HelloWorld/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HelloWorld/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../HelloWorld/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ingest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +99,8 @@
       <file leaf-file-name="ingest.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="450">
+              <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -85,14 +132,7 @@
     <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -109,17 +149,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ingest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Ingest" />
@@ -141,6 +175,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -219,30 +257,7 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
+      <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -264,7 +279,11 @@
       <option name="PREFERRED_AVD" value="" />
       <Java />
       <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
         <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <method />
     </configuration>
@@ -319,27 +338,6 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -461,34 +459,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -512,6 +482,30 @@
         <item index="0" class="java.lang.String" itemvalue="Application.Ingest" />
       </list>
     </recent_temporary>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="lastUpdateTimestamp" value="1473630441061" />
@@ -578,27 +572,31 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25287357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -625,8 +623,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -636,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -646,7 +644,77 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -656,21 +724,21 @@
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Function1.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ingest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="450">
+          <caret line="30" column="3" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

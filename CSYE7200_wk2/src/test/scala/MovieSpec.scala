@@ -74,6 +74,9 @@ class MovieSpec extends FlatSpec with Matchers {
       case Rating("R", None) =>
     }
   }
+  it should "work for PG-XX" in {
+    an [Exception] should be thrownBy(Rating("PG-XX"))
+  }
 
   behavior of "Format"
 

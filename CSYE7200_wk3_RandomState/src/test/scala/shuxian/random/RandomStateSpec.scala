@@ -8,9 +8,6 @@ import org.scalatest.{FlatSpec, Matchers}
 
 import scala.language.postfixOps
 
-/**
-  * @author scalaprof
-  */
 class RandomStateSpec extends FlatSpec with Matchers {
 
   def stdDev(xs: Seq[Double]): Double = math.sqrt(xs.reduceLeft((a, x) => a + x * x)) / xs.length

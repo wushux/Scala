@@ -95,6 +95,7 @@ object Movie extends App {
 
   trait IngestibleMovie extends Ingestible[Movie] {
     def fromString(w: String): Try[Movie] = Try(apply(w.split(",")))// TODO 11 points
+//    def fromString(w: String): Try[Movie] = Try(Movie(w.split(",").toSeq))// TODO 11 points
   }
 
   implicit object IngestibleMovie extends IngestibleMovie
@@ -117,7 +118,7 @@ object Movie extends App {
     */
   def elements(list: Seq[String], indices: Int*): List[String] = {
     val x = mutable.ListBuffer[String]()
-    x ++= list
+//    x ++= list
 
     for(i<-indices){
       x += list(i)
@@ -209,5 +210,7 @@ object Rating {
     case rRating(code,null,null)=>apply(code,None)
     case rRating(code,_,age)=>apply(code,Option(age.toInt))
 //    case rRating("PG-13",_)=>apply("PG",Some(13))
+//    case rRating(code, _, age) => apply(code, Try(age.toInt).toOption)
+//    case _ => throw new Exception(s"parse error in Rating: $s")
   } // TODO 13 points
 }
